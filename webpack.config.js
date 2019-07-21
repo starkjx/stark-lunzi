@@ -1,4 +1,4 @@
-const path = require('path');
+const path = require('path')
 module.exports = {
   entry: {
     index: './lib/index.tsx'
@@ -33,4 +33,4 @@ module.exports = {
       }
     ]
   },
-};
+}
